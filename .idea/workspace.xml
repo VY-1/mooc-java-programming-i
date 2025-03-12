@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad17e2bf-1bbe-47b7-96c6-382a0ddf02a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/course_config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/course_config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/classes/RepeatingBreakingAndRemembering.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/classes/RepeatingBreakingAndRemembering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Osa2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Osa2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part1Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part3Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part4Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part5Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part5Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part5bTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_20.RepeatingBreakingAndRemembering/target/test-classes/Part5bTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_21.InAHoleInTheGround/target/classes/InAHoleInTheGround.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_21.InAHoleInTheGround/target/classes/InAHoleInTheGround.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_21.InAHoleInTheGround/target/test-classes/InAHoleInTheGroundTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_21.InAHoleInTheGround/target/test-classes/InAHoleInTheGroundTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_22.Reprint/target/classes/Reprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_22.Reprint/target/classes/Reprint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_22.Reprint/target/test-classes/ReprintTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_22.Reprint/target/test-classes/ReprintTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_23.FromOneToParameter/target/classes/FromOneToParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_23.FromOneToParameter/target/classes/FromOneToParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_23.FromOneToParameter/target/test-classes/FromOneToParameterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_23.FromOneToParameter/target/test-classes/FromOneToParameterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/target/classes/FromParameterToOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/target/classes/FromParameterToOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/target/test-classes/FromParameterToOneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/target/test-classes/FromParameterToOneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_25.Division/target/classes/Division.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_25.Division/target/classes/Division.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_25.Division/target/test-classes/DivisionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_25.Division/target/test-classes/DivisionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/target/classes/DivisibleByThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/target/classes/DivisibleByThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/target/test-classes/DivisibleByThreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/target/test-classes/DivisibleByThreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_27.NumberUno/target/classes/NumberUno.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_27.NumberUno/target/classes/NumberUno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_27.NumberUno/target/test-classes/NumberUnoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_27.NumberUno/target/test-classes/NumberUnoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_28.Word/target/classes/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_28.Word/target/classes/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_28.Word/target/test-classes/WordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_28.Word/target/test-classes/WordTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_29.Summation/target/classes/Summation.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_29.Summation/target/classes/Summation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_29.Summation/target/test-classes/SummationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_29.Summation/target/test-classes/SummationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_30.Smallest/target/classes/Smallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_30.Smallest/target/classes/Smallest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_30.Smallest/target/test-classes/SmallestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_30.Smallest/target/test-classes/SmallestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_31.Greatest/target/classes/Greatest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_31.Greatest/target/classes/Greatest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_31.Greatest/target/test-classes/GreatestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_31.Greatest/target/test-classes/GreatestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_32.Averaging/target/classes/Averaging.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_32.Averaging/target/classes/Averaging.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_32.Averaging/target/test-classes/AveragingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_32.Averaging/target/test-classes/AveragingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_33.StarSign/target/classes/StarSign.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_33.StarSign/target/classes/StarSign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_33.StarSign/target/test-classes/StarSignTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_33.StarSign/target/test-classes/StarSignTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_34.AdvancedAstrology/target/classes/AdvancedAstrology.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_34.AdvancedAstrology/target/classes/AdvancedAstrology.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_34.AdvancedAstrology/target/test-classes/AdvancedAstrologyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_34.AdvancedAstrology/target/test-classes/AdvancedAstrologyTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2uCZjL8aS1qRxfBSj3cK0iSA8Ho" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/big-v/Documents/Programming/tmcdata/mooc-java-programming-i"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad17e2bf-1bbe-47b7-96c6-382a0ddf02a8" name="Changes" comment="" />
+      <created>1741754651466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741754651466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
